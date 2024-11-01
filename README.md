@@ -11,12 +11,12 @@
 
 
 ## Python scripts:<br>
-**<a href = "https://github.com/satviktiwari/Minor-Project/blob/main/Bounding_boxes.py">Bounding_boxes.py</a>**: Code to detect object and create bounding box around them.<br>
-**<a href = "https://github.com/satviktiwari/Minor-Project/blob/main/Euclidean_dist.py">Eculedian_dist.py</a>**: Code to find Eucledian Distance between objects.<br>
-**<a href = "https://github.com/satviktiwari/Minor-Project/blob/main/fileClear.py">fileClear.py</a>**: Program to clear log files.<br>
-**<a href = "https://github.com/satviktiwari/Minor-Project/blob/main/fileConverter.py">fileConverter.py</a>**: Program to convert output video files from one form to other form. (e.g. avi to mp4)<br>
-**<a href = "https://github.com/satviktiwari/Minor-Project/blob/main/Main.py">Main.py</a>**: Program to reduce storage space by implimenting the actual algorithm.<br>
-**<a href = "https://github.com/satviktiwari/Minor-Project/blob/main/temp.py">temp.py</a>**: back-up of Main.py file<br>
+**<a href = "https://github.com/ihrithkraj/Framework-For-CCTV-Storage-Optimization/blob/main/Bounding_boxes.py">Bounding_boxes.py</a>**: Code to detect object and create bounding box around them.<br>
+**<a href = "https://github.com/ihrithkraj/Framework-For-CCTV-Storage-Optimization/blob/main/Euclidean_dist.py">Eculedian_dist.py</a>**: Code to find Eucledian Distance between objects.<br>
+**<a href = "https://github.com/ihrithkraj/Framework-For-CCTV-Storage-Optimization/blob/main/fileClear.py">fileClear.py</a>**: Program to clear log files.<br>
+**<a href = "https://github.com/ihrithkraj/Framework-For-CCTV-Storage-Optimization/blob/main/fileConverter.py">fileConverter.py</a>**: Program to convert output video files from one form to other form. (e.g. avi to mp4)<br>
+**<a href = "https://github.com/ihrithkraj/Framework-For-CCTV-Storage-Optimization/blob/main/Main.py">Main.py</a>**: Program to reduce storage space by implimenting the actual algorithm.<br>
+**<a href = "https://github.com/ihrithkraj/Framework-For-CCTV-Storage-Optimization/blob/main/temp.py">temp.py</a>**: back-up of Main.py file<br>
 
 ### Team Members
 **1**: Hrithik Raj<br>
