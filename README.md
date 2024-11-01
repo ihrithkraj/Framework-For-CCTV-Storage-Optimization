@@ -19,12 +19,5 @@
 **<a href = "https://github.com/satviktiwari/Minor-Project/blob/main/Main.py">Main.py</a>**: Program to reduce storage space by implimenting the actual algorithm.<br>
 **<a href = "https://github.com/satviktiwari/Minor-Project/blob/main/temp.py">temp.py</a>**: back-up of Main.py file<br>
 
-## Team:
-> **Project Guide**: Asst. Prof. Sahana B. (Department of ECE, RV College of Engineering)<br><br>
-> **Team Members**:
-> 1. Satvik Tiwari: [satviktiwari](https://github.com/satviktiwari) <br>
-> 2. Pulkit Sharma: [dudepulkit](https://github.com/dudepulkit) <br>
-> 3. Varad Daithankar: [varaddaithankar](https://github.com/varaddaithankar) <br>
-> 4. Debanjan Sinha: [debanjan987](https://github.com/debanjan987) <br>
 
 _Don't forget to star the repository_
