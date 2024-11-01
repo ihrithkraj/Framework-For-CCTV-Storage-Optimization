@@ -1,8 +1,7 @@
-# Framework for Storage Optimization in CCTV Recordings
+# Framework for Storage Optimization
 
-**<a href = "https://github.com/satviktiwari/Minor-Project/tree/main/Data-Output">Data Output</a>**: contains logfiles having data of objects detected and other relevent information assosiated with them.<br>
-**<a href = "https://github.com/satviktiwari/Minor-Project/tree/main/Static-Website">Static-Website</a>**: Temporary website for displaying output.<br>
-**<a href = "https://github.com/satviktiwari/Minor-Project/tree/main/Video-Outputs">Video-Outputs</a>**: Final output video after processing.<br>
+**<a href = "https://github.com/ihrithkraj/Framework-For-CCTV-Storage-Optimization/tree/main/Data-Output">Data Output</a>**: contains logfiles having data of objects detected and other relevent information assosiated with them.<br>
+**<a href = "https://github.com/ihrithkraj/Framework-For-CCTV-Storage-Optimization/tree/main/Video-Outputs">Video-Outputs</a>**: Final output video after processing.<br>
 
 ## Distance calculation methods used:<br>
 **Normal Distance**: Gives the numerical measurement of how far apart objects or points are in two consecutive frames.<br>
@@ -18,6 +17,12 @@
 **<a href = "https://github.com/satviktiwari/Minor-Project/blob/main/fileConverter.py">fileConverter.py</a>**: Program to convert output video files from one form to other form. (e.g. avi to mp4)<br>
 **<a href = "https://github.com/satviktiwari/Minor-Project/blob/main/Main.py">Main.py</a>**: Program to reduce storage space by implimenting the actual algorithm.<br>
 **<a href = "https://github.com/satviktiwari/Minor-Project/blob/main/temp.py">temp.py</a>**: back-up of Main.py file<br>
+
+### Team Members
+**1**: Hrithik Raj<br>
+**2**: Satvik Tiwari<br>
+**3**: Pulkit Sharma<br>
+**4**: Debanjan Sinha.<br>
 
 
 _Don't forget to star the repository_
