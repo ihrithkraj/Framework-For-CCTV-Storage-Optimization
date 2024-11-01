@@ -128,8 +128,8 @@ cap.release()  # releases the webcam
 # Once out of the while loop, the pop-up window closes automatically
 cv2.destroyAllWindows()
 
-# input video path=> C:\Users\satvi\OneDrive\Desktop\CCTV-Data-Processing\test_video_1.mp4
-# output video path=> C:\Users\satvi\OneDrive\Desktop\CCTV-Data-Processing\test_video_output.avi
+# input video path=> C:\Users\hr\OneDrive\Desktop\CCTV-Data-Processing\test_video_1.mp4
+# output video path=> C:\Users\hr\OneDrive\Desktop\CCTV-Data-Processing\test_video_output.avi
 
 # Output: Storage reduced from 12 MB to 2 MB !!!
 # Frame data successfully written in csv file and text file frame-wise
